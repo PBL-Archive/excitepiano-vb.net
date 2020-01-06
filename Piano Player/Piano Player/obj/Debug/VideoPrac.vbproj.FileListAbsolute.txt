@@ -1,0 +1,37 @@
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\bin\Debug\VideoPrac.exe.config
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\bin\Debug\VideoPrac.exe
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\bin\Debug\VideoPrac.pdb
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\bin\Debug\VideoPrac.xml
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.vbprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.Form1.resources
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.Resources.resources
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.vbproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.exe
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.xml
+E:\Visual Studio 2015\Projects\VB.NET\VideoPrac\VideoPrac\obj\Debug\VideoPrac.pdb
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.vbprojAssemblyReference.cache
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.Form1.resources
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.vbproj.GenerateResource.cache
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.xml
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.pdb
+D:\Projects\Piano\VideoPrac\bin\Debug\VideoPrac.exe.config
+D:\Projects\Piano\VideoPrac\bin\Debug\VideoPrac.exe
+D:\Projects\Piano\VideoPrac\bin\Debug\VideoPrac.pdb
+D:\Projects\Piano\VideoPrac\bin\Debug\VideoPrac.xml
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.Resources.resources
+D:\Projects\Piano\VideoPrac\obj\Debug\VideoPrac.exe
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.exe.config
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.exe
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.pdb
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.xml
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.Resources.resources
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.vbproj.GenerateResource.cache
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.exe
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.xml
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.pdb
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.pianoMainForm.resources
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.exe.manifest
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\bin\Debug\VideoPrac.application
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.exe.manifest
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.application
+D:\Projects\Desktop Software\VB.NET\Piano\VideoPrac\obj\Debug\VideoPrac.vbprojAssemblyReference.cache
