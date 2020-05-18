@@ -1,6 +1,6 @@
 # ExcitePiano
 
-This was done in 2016 and recently minor midifications were done.
+This was done in 2016 and recently minor modifications were done.
 
 ExcitePiano is a simple Piano Player based on .NET 4 Framework.
 
